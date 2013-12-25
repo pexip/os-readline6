@@ -1,3 +1,9 @@
+readline6 (6.2-8pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 04:26:24 +0000
+
 readline6 (6.2-8) unstable; urgency=low
 
   * Mark readline-common Multi-Arch: foreign. Closes: #648098.
