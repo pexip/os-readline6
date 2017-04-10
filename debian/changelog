@@ -1,4 +1,4 @@
-readline6 (6.3-8pexip1) pexip; urgency=low
+readline6 (6.3-8+b3pexip1) pexip; urgency=low
 
   * Migrate to Jessie
 
